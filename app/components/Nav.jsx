@@ -9,10 +9,10 @@ var Nav = () => {
         <ul className='menu'>
           <li className='menu-text'>Timer App</li>
           <li>
-            <IndexLink to='/' activeClassName='active-link' activeStyle={{fontWeight: 'bold'}}>Timer</IndexLink>
+            <IndexLink to='/' activeClassName='active-link'>Timer</IndexLink>
           </li>
           <li>
-            <Link to='/' activeClassName='active-link' activeStyle={{fontWeight: 'bold'}}>Countdown</Link>
+            <Link to='/countdown' activeClassName='active-link'>Countdown</Link>
           </li>
         </ul>
       </div>
@@ -20,7 +20,7 @@ var Nav = () => {
       <div className='top-bar-right'>
         <ul className='menu'>
           <li className='menu-text'>
-            Create by <a href='https://github.com/marcelscruz' target='_blank'>Marcel Cruz</a>
+            Created by <a href='https://github.com/marcelscruz' target='_blank'>Marcel Cruz</a>
             </li>
         </ul>
       </div>
