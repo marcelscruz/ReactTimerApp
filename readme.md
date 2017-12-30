@@ -1,6 +1,6 @@
-# Timer and Countdown App
+# Timer and Countdown
 
-A timer and countdown app created with React.
+A timer and countdown web app created with React.
 
 ## Project
 
