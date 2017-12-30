@@ -6,7 +6,7 @@ A timer and countdown web app created with React.
 
 This web app was created based on Andrew Mead's React course.
 
-### Installing
+## Installing
 
 Clone repository
 
@@ -26,7 +26,7 @@ npm start
 
 Go to http://127.0.0.1:3000 on your browser
 
-### Running tests
+## Running tests
 
 ```
 npm test
