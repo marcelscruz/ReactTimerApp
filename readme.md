@@ -11,7 +11,7 @@ This web app was created based on Andrew Mead's React course.
 Clone repository
 
 ```
-git clone https://github.com/marcelscruz/react-timer-app.git
+git clone https://github.com/marcelscruz/react-timer-and-countdown.git
 ```
 
 Install dependencies
