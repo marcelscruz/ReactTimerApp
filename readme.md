@@ -1,10 +1,10 @@
 # Timer and Countdown App
 
-A timer and countdown app created with React
+A timer and countdown app created with React.
 
 ## Project
 
-This app was created following Andrew Mead's React course
+This web app was created based on Andrew Mead's React course.
 
 ### Installing
 
